@@ -1,0 +1,29 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "my app",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranesaci/nodeJs.git"
+  },
+  "keywords": [
+    "study"
+  ],
+  "author": "sachin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranesaci/nodeJs/issues"
+  },
+  "homepage": "https://github.com/ranesaci/nodeJs#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
